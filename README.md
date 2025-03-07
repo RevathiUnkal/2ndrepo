@@ -1,1 +1,3 @@
 # 2ndrepo
+THIS IS DEVOPS LAB.
+THIS IS DEVOPS.
